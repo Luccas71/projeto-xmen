@@ -15,6 +15,9 @@
 
     .selecao-de-personagens .personagens .titulo{
         font-size: 15px;
+        margin: 0 auto;
+        max-width: 90%;
+        text-align: center;
     }
 
     .selecao-de-personagens .lista-de-personagens{
@@ -36,8 +39,10 @@
         margin: 20px auto;
     }
 
-        .personagem-selecionado .nome-personagem{
-            width: 80%;
-            margin: 0 auto;
-        }
+    .personagem-selecionado .nome-personagem{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+
 }
